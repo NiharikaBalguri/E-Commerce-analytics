@@ -1,4 +1,4 @@
--- E-Commerce Sales Analytics (Apna College style)
+-- E-Commerce Sales Analytics---
 
 CREATE DATABASE IF NOT EXISTS ecommerce;
 USE ecommerce;
